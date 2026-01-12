@@ -1,0 +1,3 @@
+requests
+progress
+colored==1.4.4
